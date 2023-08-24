@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.calculator {
+  background: white;
+  color: black;
+  width: 1000px;
+  padding: 20px;
+}
+
+.btn-calcu{
+  width: 250px;
+  height: 50px;
+  font-size: 35px;
+  
+}
+
+.calculator .result{
+  text-align: right;
+  height: 40px;
+}
